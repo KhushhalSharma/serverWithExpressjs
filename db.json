@@ -1,0 +1,26 @@
+{
+  "products": [
+    { "id": 1, "name": "p1", "price": 1, "a": 2 },
+    { "id": 2, "name": "p2", "price": "1rs", "a": 200 },
+    { "id": 3, "name": "p3", "price": 300 },
+    { "id": 4, "name": "p4", "price": 400 },
+    { "id": 5, "name": "p5", "price": 500 },
+    { "id": 6, "name": "p6", "price": 600 },
+    { "id": 7, "name": "p7", "price": 700 },
+    { "id": 8, "name": "p8", "price": 800 },
+    { "id": 9, "name": "p9", "price": 900 },
+    { "id": 10, "name": "p10", "price": 1000 }
+  ],
+  "students": [
+    { "id": 1, "name": "Student 1", "rollNo": 100 },
+    { "id": 2, "name": "Student 2", "rollNo": 200 },
+    { "id": 3, "name": "Student 3", "rollNo": 300 },
+    { "id": 4, "name": "Student 4", "rollNo": 400 },
+    { "id": 5, "name": "Student 5", "rollNo": 500 },
+    { "id": 6, "name": "Student 6", "rollNo": 600 },
+    { "id": 7, "name": "Student 7", "rollNo": 700 },
+    { "id": 8, "name": "Student 8", "rollNo": 800 },
+    { "id": 9, "name": "Student 9", "rollNo": 900 },
+    { "id": 10, "name": "Student 10", "rollNo": 1000 }
+  ]
+}
